@@ -33,5 +33,5 @@
   "img_cdn_url": "https://dl.aw.freefiremobile.com/common/",
   "core_url": "https://core.chronoprojects.com/core/",
   "core_ip_list": [],
-  "is_update_btn_show": true
+  "is_update_btn_show": false
 }
